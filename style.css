@@ -1,6 +1,6 @@
 /* Change the background of the entire visible page */
 body {
-    background-color: ##FF0000; /* Red*/
+    background-color: background-color: red;; /* Red*/
 }
 
 /* Style for all paragraphs */
